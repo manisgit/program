@@ -19,6 +19,4 @@ int main()
     float i;
     scanf("%s %s %f",&c,&s,&i);
     printf("The capital of %s is %s and it's GDP is %.2f",&c,&s,i);
-
-
 }
