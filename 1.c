@@ -1,11 +1,11 @@
-//Test case
+/*Test case
 input
 india
 delhi
 1498.871
 
 output
-The capital of India is Delhi and it's GDP is 1498.87//
+The capital of India is Delhi and it's GDP is 1498.87*/
 
 
 
